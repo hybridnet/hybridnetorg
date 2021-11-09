@@ -41,3 +41,18 @@
     left: 5px;
   }
 }
+
+.cover-foto {
+  background-image: url("../img/cover.jpg");
+  background-position: center 50%;
+  height: 15rem;
+  background-color: #f5f5f5;
+  background-size: cover;
+}
+
+@media screen and (max-width: 768px) {
+  .cover-foto {
+    background-position: center 50%;
+    height: 10rem;
+  }
+}
