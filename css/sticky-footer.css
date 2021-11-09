@@ -27,3 +27,11 @@
 .logo-footer {
   width: 200px;
 }
+
+.navbar-geser-kiri {
+  position: relative;
+  right: 30px;
+}
+.font-bawah {
+  font-size: 13px;
+}
