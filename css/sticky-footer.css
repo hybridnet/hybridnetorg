@@ -35,3 +35,9 @@
 .font-bawah {
   font-size: 13px;
 }
+@media screen and (max-width: 768px) {
+  .navbar-custom {
+    position: relative;
+    left: 5px;
+  }
+}
