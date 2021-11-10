@@ -7,8 +7,8 @@
   max-width: 680px;
   padding: 0 15px;
 }
-.dark-gray {
-  background-color: #f4f4f4;
+.dark-alrt {
+  background-color: #212f3c;
 }
 
 .section-lg {
@@ -34,6 +34,9 @@
 }
 .font-bawah {
   font-size: 13px;
+}
+.icon-alrt {
+  font-size: 20px;
 }
 @media screen and (max-width: 768px) {
   .navbar-custom {
